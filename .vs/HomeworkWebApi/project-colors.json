@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d1035ea-8fb3-43f5-86ef-e6cde5fa9d5c": {
+      "ProjectGuid": "7d1035ea-8fb3-43f5-86ef-e6cde5fa9d5c",
+      "DisplayName": "HomeworkWebApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
